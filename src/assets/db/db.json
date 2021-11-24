@@ -1,0 +1,9 @@
+{
+    "reviews": [
+        {
+            "movie": "movieTitle",
+            "rating": 0,
+            "review": "textString"
+        }
+    ]
+}
