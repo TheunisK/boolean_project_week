@@ -1,9 +1,180 @@
 {
-    "reviews": [
-        {
-            "movie": "movieTitle",
-            "rating": 0,
-            "review": "textString"
-        }
-    ]
+  "reviews": [
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "5",
+        "userReview": "Thekjnfksjf"
+      },
+      "id": 1
+    },
+    {
+      "movie": {
+        "movieTitle": "Venom: Let There Be Carnage",
+        "userRating": "9",
+        "userReview": "Hello"
+      },
+      "id": 2
+    },
+    {
+      "movie": {
+        "movieTitle": "Red Notice",
+        "userRating": "7",
+        "userReview": "Hi"
+      },
+      "id": 3
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "7",
+        "userReview": "very good"
+      },
+      "id": 4
+    },
+    {
+      "movie": {
+        "movieTitle": "Dune",
+        "userRating": "10",
+        "userReview": "Great"
+      },
+      "id": 5
+    },
+    {
+      "movie": {
+        "movieTitle": "The Simpsons in Plusaversary",
+        "userRating": "4",
+        "userReview": "Great"
+      },
+      "id": 6
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "8",
+        "userReview": "knsdflksd"
+      },
+      "id": 7
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "8",
+        "userReview": "xfgdfgdf"
+      },
+      "id": 8
+    },
+    {
+      "movie": {
+        "movieTitle": "Red Notice",
+        "userRating": "5",
+        "userReview": "bncnv"
+      },
+      "id": 9
+    },
+    {
+      "movie": {
+        "movieTitle": "Amina",
+        "userRating": "8",
+        "userReview": "It was great!"
+      },
+      "id": 10
+    },
+    {
+      "movie": {
+        "movieTitle": "Red Notice",
+        "userRating": "9",
+        "userReview": "Hello\n"
+      },
+      "id": 11
+    },
+    {
+      "movie": {
+        "movieTitle": "Shang-Chi and the Legend of the Ten Rings",
+        "userRating": "8",
+        "userReview": "dfgdfgd"
+      },
+      "id": 12
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "8",
+        "userReview": "fgdfgsdgd"
+      },
+      "id": 13
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "10",
+        "userReview": "dfgdfgd"
+      },
+      "id": 14
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "10",
+        "userReview": "dgdfgdf"
+      },
+      "id": 15
+    },
+    {
+      "movie": {
+        "movieTitle": "No Time to Die",
+        "userRating": "10",
+        "userReview": "dgdfgdf"
+      },
+      "id": 16
+    },
+    {
+      "movie": {
+        "movieTitle": "Shang-Chi and the Legend of the Ten Rings",
+        "userRating": "10",
+        "userReview": "gdfgdgdfgdgd"
+      },
+      "id": 17
+    },
+    {
+      "movie": {
+        "movieTitle": "Venom: Let There Be Carnage",
+        "userRating": "8",
+        "userReview": "Great!"
+      },
+      "id": 18
+    },
+    {
+      "movie": {
+        "movieTitle": "Red Notice",
+        "userRating": "8",
+        "userReview": "dfgfjhjfg"
+      },
+      "id": 19
+    },
+    {
+      "movie": {
+        "movieTitle": "Clifford the Big Red Dog",
+        "userRating": "7",
+        "userReview": "Hello"
+      },
+      "id": 20
+    },
+    {
+      "movie": {
+        "movieTitle": "Shang-Chi and the Legend of the Ten Rings",
+        "userRating": "6",
+        "userReview": "it was great\n"
+      },
+      "id": 21
+    },
+    {
+      "movie": {
+        "movieTitle": "Dune",
+        "userRating": "9",
+        "userReview": "dfhddhdhdf"
+      },
+      "id": 22
+    }
+  ]
 }
